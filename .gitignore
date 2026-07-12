@@ -1,0 +1,21 @@
+# Machine Learning Artifacts
+*.pkl
+
+# Python Cache and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+env/
+.env/
+
+# IDE Configuration Files
+.vscode/
+.idea/
