@@ -1,4 +1,4 @@
-# Smart Farm Irrigation System using Multi-Output Machine Learning
+# Smart Irrigation System 
 
 An end-to-end automated smart irrigation framework that leverages machine learning to optimize water consumption. The system evaluates telemetry from 20 environmental sensors to simultaneously predict real-time irrigation requirements across 3 distinct land parcels.
 
